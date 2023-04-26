@@ -1,0 +1,1 @@
+[Страница с меню](https://rbakirovv.github.io/sinus.local/menu.html)
