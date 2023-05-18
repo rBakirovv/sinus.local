@@ -33,12 +33,12 @@
   padding: 0;
 }
 
-.accordion-item {
+.accordion-item-container {
   overflow: hidden;
   border-radius: 10px;
 }
 
-.accordion-item.accordion-item_active {
+.accordion-item-container.accordion-item_active {
   overflow: visible;
 }
 
